@@ -39,7 +39,7 @@ Here are a few projects I’m proud of:
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** [hello.ponsiva@outlook.com](mailto:hello.ponsiva@outlook.com)  
+- 📧 **Email:** [hello.ponsiva@gmail.com](mailto:hello.ponsiva@gmail.com)  
 - 🌐 **Portfolio:** [www.iamponsiva.rf.gd](http://www.iamponsiva.rf.gd)  
 - 💼 **LinkedIn:** [linkedin.com/in/ponsiva](https://www.linkedin.com/in/ponsiva/)  
 
